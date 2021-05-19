@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-19T04:49:51Z" name="Default suite" finished-at="2021-05-19T04:50:22Z" duration-ms="30486">
+    <groups>
+    </groups>
+    <test started-at="2021-05-19T04:49:51Z" name="Default test" finished-at="2021-05-19T04:50:22Z" duration-ms="30486">
+      <class name="jupitertoytestsuite.ValidateJupiterToyFlowTest">
+        <test-method is-config="true" signature="initiateDriver()[pri:0, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:49:51Z" name="initiateDriver" finished-at="2021-05-19T04:49:54Z" duration-ms="2672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method is-config="true" signature="init()[pri:0, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:49:54Z" name="init" finished-at="2021-05-19T04:49:56Z" duration-ms="2575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="getDriver()[pri:0, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:49:56Z" name="getDriver" finished-at="2021-05-19T04:50:00Z" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="getAllToyNames()[pri:1, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:00Z" name="getAllToyNames" finished-at="2021-05-19T04:50:00Z" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllToyNames -->
+        <test-method signature="addAllItemsToCart()[pri:2, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:00Z" name="addAllItemsToCart" finished-at="2021-05-19T04:50:01Z" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAllItemsToCart -->
+        <test-method signature="removeItemFromCart()[pri:3, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:01Z" name="removeItemFromCart" finished-at="2021-05-19T04:50:01Z" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItemFromCart -->
+        <test-method signature="emptyCart()[pri:4, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:01Z" name="emptyCart" finished-at="2021-05-19T04:50:02Z" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyCart -->
+        <test-method signature="validateEmptyFieldCheckout()[pri:5, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:02Z" name="validateEmptyFieldCheckout" finished-at="2021-05-19T04:50:03Z" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmptyFieldCheckout -->
+        <test-method signature="cartCheckOut()[pri:6, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:03Z" name="cartCheckOut" finished-at="2021-05-19T04:50:03Z" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartCheckOut -->
+        <test-method signature="confirmedShoppingAgain()[pri:7, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:03Z" name="confirmedShoppingAgain" finished-at="2021-05-19T04:50:10Z" duration-ms="6286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmedShoppingAgain -->
+        <test-method signature="contactUs()[pri:8, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:10Z" name="contactUs" finished-at="2021-05-19T04:50:21Z" duration-ms="11229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method signature="userLoginTab()[pri:9, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:21Z" name="userLoginTab" finished-at="2021-05-19T04:50:21Z" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginTab -->
+        <test-method signature="validateEmptyFieldContact()[pri:10, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:21Z" name="validateEmptyFieldContact" finished-at="2021-05-19T04:50:21Z" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmptyFieldContact -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:jupitertoytestsuite.ValidateJupiterToyFlowTest@3315d2d7]" started-at="2021-05-19T04:50:21Z" name="driverClose" finished-at="2021-05-19T04:50:22Z" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- jupitertoytestsuite.ValidateJupiterToyFlowTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
